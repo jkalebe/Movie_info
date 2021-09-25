@@ -7,7 +7,11 @@ function App() {
   return (
     <div className="App container">
       <Search/>
+      {/* criar rota aqui 
+      /movie/mdbID
+      */}
     </div>
+
   );
 }
 
